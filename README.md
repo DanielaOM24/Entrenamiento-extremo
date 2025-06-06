@@ -81,5 +81,5 @@ Este proyecto no incluye ningún código JavaScript. Por tanto:
 
 ## © Créditos
 
-Diseñado por: **[Tu Nombre o Equipo]**  
+Diseñado por: **[Daniela Orrego]**  
 Derechos reservados © 2025 Café de la Loma
