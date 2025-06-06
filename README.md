@@ -52,14 +52,6 @@ Contiene las siguientes secciones:
 - El menú hamburguesa está presente (solo visible en CSS, sin funcionalidad desplegable sin JS).
 - Las tarjetas de productos se ajustan en filas o columnas según el ancho de pantalla.
 
----
-
-## 🚫 Sin JavaScript
-
-Este proyecto no incluye ningún código JavaScript. Por tanto:
-
-- El botón de cambio de tema no tiene funcionalidad.
-- El menú hamburguesa no se despliega (solo se oculta/visibiliza con media queries).
 
 ---
 
@@ -71,13 +63,8 @@ Este proyecto no incluye ningún código JavaScript. Por tanto:
 
 ---
 
-## 📌 Posibles Mejoras Futuras
 
-- Añadir JavaScript para modo oscuro y menú desplegable.
-- Backend para procesar el formulario de reservas.
-- Animaciones con CSS o JS para mejorar la experiencia visual.
 
----
 
 ## © Créditos
 
